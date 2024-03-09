@@ -131,4 +131,4 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
 ]
 
-ALLOWED_HOSTS = ["https://django-backend-production.up.railway.app/"]
+ALLOWED_HOSTS = ["django-backend-production.up.railway.app"]
